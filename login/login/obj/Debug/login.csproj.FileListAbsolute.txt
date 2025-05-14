@@ -1,0 +1,11 @@
+C:\Users\perro\source\repos\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\perro\source\repos\login\login\obj\Debug\login.MDIForm.resources
+C:\Users\perro\source\repos\login\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\perro\source\repos\login\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\perro\source\repos\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\perro\source\repos\login\login\obj\Debug\login.FormLogin.resources
+C:\Users\perro\source\repos\login\login\bin\Debug\login.exe.config
+C:\Users\perro\source\repos\login\login\bin\Debug\login.exe
+C:\Users\perro\source\repos\login\login\bin\Debug\login.pdb
+C:\Users\perro\source\repos\login\login\obj\Debug\login.exe
+C:\Users\perro\source\repos\login\login\obj\Debug\login.pdb
